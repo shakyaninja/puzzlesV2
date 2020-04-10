@@ -56,5 +56,5 @@ Write a code in a programming language of your choice to solve the following puz
 ![padlock-puzzle2.png](padlock-puzzle2.png)
 
 
-### `What to submit`: A text file in markdown format including your source code with explanation. See [example](Puzzle-Answer-sample.md).
+### `What to submit`: A text file in markdown format including your source code with explanation. See [example](Puzzle-Answer-Sample.md).
 

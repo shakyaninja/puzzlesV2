@@ -42,7 +42,8 @@ Create your own docker image which returns your name and email address, then pub
 ### `What to submit`: Link to your own dockerhub image
 
 
-# [Optional Challenge] Puzzle 3 - Padlock
+# Puzzle 3 - Padlock
+## ***Please attempt this challenge and submit even if you only have a partial answer, we are keen to see your approach.***
 
 Write a code in a programming language of your choice to solve the following puzzle.
 

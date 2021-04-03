@@ -10,7 +10,7 @@ Write a script with one of the following languages to count rows in a csv file. 
 
 You may also choose to write a console program in C# and .NET Core instead of writing a script.
 
-### `What to submit`: All your source code in a single text file (.txt)
+### `What to submit`: All your source code in a single file (text or word)
 
 
 

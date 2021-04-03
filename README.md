@@ -39,7 +39,7 @@ Create your own docker image which returns your name and email address, then pub
 
 ***Note: If you’re concerned about privacy, you may choose to return a fake name and email address.***
 
-### `What to submit`: Link to your own dockerhub image
+### `What to submit`: A text file including the link to your own dockerhub image.
 
 
 # Puzzle 3 - Padlock

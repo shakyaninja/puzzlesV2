@@ -10,7 +10,7 @@ Write a script with one of the following languages to count rows in a csv file. 
 
 You may also choose to write a console program in C# and .NET Core instead of writing a script.
 
-### `What to submit`: All your source code in a single text file (.txt or .md)
+### `What to submit`: All your source code in a single text file (.txt)
 
 
 
@@ -57,5 +57,5 @@ Write a code in a programming language of your choice to solve the following puz
 ![padlock-puzzle2.png](padlock-puzzle2.png)
 
 
-### `What to submit`: A text file in markdown format including your source code with explanation. See [example](Puzzle-Answer-Sample.md).
+### `What to submit`: A word file including your source code with explanation. See [example](Puzzle-Answer-Sample.md).
 

@@ -1,0 +1,2 @@
+I could not develop code for padlock problem as it is part of knowledge representation and that cannot be done without KRR and programming languages like prolog which i have very little experience with. Therefore, i have tried to do as close as possible to specified problem but, failed.
+But, solution that i tried in paper is as given in task_3_paper_solution.jpg 

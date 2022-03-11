@@ -76,6 +76,7 @@ console.log("possible digits extracted: ",possible_digits);
 console.log("possible digits at first place: ",first_digit_possible);
 console.log("possible digits at second place: ",second_digit_possible);
 console.log("possible digits at third place: ",third_digit_possible);
+
 // possible_digits.forEach(element => {
     
 // });
